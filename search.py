@@ -1,0 +1,1 @@
+#negamax + alpha-beta, iterative deepening
